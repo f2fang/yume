@@ -14,6 +14,7 @@
 使用 AI 协助生成的精致漫画风格插图，配合轻松喜剧分镜。
 
 ## 👩‍💻 项目结构
+```
 yume/
 ├── index.html                 # 首页（话数导航 + 角色设定链接）
 ├── characters.html            # 角色设定页面
@@ -26,7 +27,7 @@ yume/
 │   └── css/
 │       └── style.css          # 全站样式表
 └── README.md                  # 项目说明文件（即将添加）
-
+```
 
 ## 📜 Copyright & License
 
