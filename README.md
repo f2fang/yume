@@ -26,7 +26,7 @@ yume/
 │   ├── img/                   # 所有插图
 │   └── css/
 │       └── style.css          # 全站样式表
-└── README.md                  # 项目说明文件（即将添加）
+└── README.md                  # 项目说明文件
 ```
 
 ## 📜 Copyright & License
