@@ -9,11 +9,23 @@ body {
 
 .episode {
   font-size: 1em;
+  line-height: 1.6;
 }
 
-.episode p {
+.episode p,
+.episode h1,
+.episode h2 {
   margin-bottom: 1em;
+  font-size: 1em;
 }
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+
 
 header {
   text-align: center;
